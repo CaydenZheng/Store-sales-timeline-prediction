@@ -76,10 +76,6 @@ python 06_ensemble.py      # 模型融合   → output/
 | `05_lightgbm.py` | LightGBM | 直方图算法，训练速度快 |
 | `06_ensemble.py` | Stacking + WAvg | 多模型融合，降低方差 |
 
-## 👥 组员
-
-- （请填写组员姓名）
-
 ## 📝 致谢
 
 数据源自 Kaggle **Store Sales - Time Series Forecasting** 竞赛，由 Corporación Favorita 提供。
